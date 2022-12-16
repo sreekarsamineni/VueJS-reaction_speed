@@ -40,7 +40,7 @@ export default {
     width: 400px;
     border-radius: 20px;
     background: coral;
-    color: rgb(158, 24, 24);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 100px 0;
     margin: 40px auto;
